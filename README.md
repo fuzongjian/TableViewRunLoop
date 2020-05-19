@@ -15,6 +15,7 @@ func addRunloopOberserver() -> Void {
 }
 ```
 - 任务封装
+
 `闭包定义`
 ```
 typealias RunloopBlock = () -> ()
